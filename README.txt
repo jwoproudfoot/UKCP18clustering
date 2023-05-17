@@ -1,0 +1,1 @@
+This repository contains code to reproduce the functions and results featured in my masters research project on investigating clustering using UKCP18 Climate Projections 'What does UKCP18 tell us about changes in rainfall'
